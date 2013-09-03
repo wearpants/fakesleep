@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.wpr
+*.wpu
+doc/_build
+dist/
+/MANIFEST
+/.coverage
+/htmlcov
